@@ -1,6 +1,6 @@
 # C++ Exercises
 
-All C++ files in this directory will be heavily commented!!!
+All C++ files in this repository will be heavily commented!!!
 
 ---
 ## BinarySearch.cpp
