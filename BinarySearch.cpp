@@ -9,6 +9,7 @@ This file performs the following operations using Binary Search:
 #include <iostream>
 using namespace std;
 
+// Function prototypes
 int BinarySearch(int*, int, int);
 int BinarySearch_FirstOccurance(int*, int, int);
 int BinarySearch_LastOccurance(int*, int, int);
