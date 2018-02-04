@@ -1,4 +1,5 @@
 // Binary Search Algorithm
+// Time Complexity: O(log n)   (where n is number of elements in an array)
 /* 
 This file performs the following operations using Binary Search:
 - Finding an element in an integer array,
