@@ -1,4 +1,4 @@
-﻿// BinarySearch.cpp 
+// Binary Search Algorithm
 /* 
 This file performs the following operations using Binary Search:
 - Finding an element in an integer array,
