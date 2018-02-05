@@ -29,5 +29,5 @@ This file implements the _Bubble Sort Algorithm_ on an array of integers.
 This file calculates the _Fibonacci Sequence_ for an integer n using the following three methods.  
 1. Recursive method
 2. Iterative method
-3. Recusion with Memoization
+3. Recursion with Memoization
 ---
