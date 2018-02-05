@@ -31,3 +31,6 @@ This file calculates the _Fibonacci Sequence_ for an integer n using the followi
 2. Iterative method
 3. Recursion with Memoization
 ---
+
+
+Disclaimer: Many of the codes in the current repository are written based on my understanding and watching the video clips from the *mycodeschool* youtube channel. 
